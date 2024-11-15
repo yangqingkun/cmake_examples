@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main1.dir/main1.c.o -o /root/workspace/demo5/bin/main1 

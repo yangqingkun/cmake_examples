@@ -1,0 +1,5 @@
+/root/workspace/demo/build/CMakeFiles/edit_cache.dir
+/root/workspace/demo/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/demo/build/src/CMakeFiles/main.dir
+/root/workspace/demo/build/src/CMakeFiles/edit_cache.dir
+/root/workspace/demo/build/src/CMakeFiles/rebuild_cache.dir

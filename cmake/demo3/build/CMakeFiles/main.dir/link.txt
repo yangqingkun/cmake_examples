@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/src/main.c.o -o /root/workspace/demo3/bin/main  -Wl,-rpath,/root/workspace/demo3/testFunc/lib /root/workspace/demo3/testFunc/lib/libtestFunc.so 
